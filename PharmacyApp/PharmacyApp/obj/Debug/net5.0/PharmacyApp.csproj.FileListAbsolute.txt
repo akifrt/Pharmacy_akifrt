@@ -1,0 +1,16 @@
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.exe
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.deps.json
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.runtimeconfig.json
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.runtimeconfig.dev.json
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.dll
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\ref\PharmacyApp.dll
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\bin\Debug\net5.0\PharmacyApp.pdb
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.csproj.AssemblyReference.cache
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.AssemblyInfoInputs.cache
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.AssemblyInfo.cs
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.dll
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\ref\PharmacyApp.dll
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.pdb
+C:\Users\Akif Talibov\Desktop\Pharmacy project\PharmacyApp\PharmacyApp\obj\Debug\net5.0\PharmacyApp.genruntimeconfig.cache
